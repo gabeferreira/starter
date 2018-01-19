@@ -1,0 +1,33 @@
+@import 'reset';
+@import 'fonts';
+
+// Fonts
+$lorem:'Lorem', helvetica, sans-serif;
+$ipsum:'Ipsum', courier, monospace;
+
+// Colors
+$black:#000;
+$white:#fff;
+
+// Global
+html, body {
+}
+
+a {
+	text-decoration:none;
+	color:inherit;
+}
+
+::-moz-selection {
+	// background:$black;
+}
+
+::selection {
+	// background:$black;
+}
+
+.clearfix {
+	clear:both;
+}
+
+@import 'mobile';

@@ -1,0 +1,14 @@
+{
+    "devDependencies": {
+        "babel-preset-es2015": "^6.16.0",
+        "gulp": "latest",
+        "gulp-babel": "^6.1.2",
+        "gulp-clean-css": "^2.0.13",
+        "gulp-concat": "latest",
+        "gulp-concat-css": "^2.3.0",
+        "gulp-connect": "latest",
+        "gulp-sass": "latest",
+        "gulp-uglify": "latest",
+        "gulp-util": "latest"
+    }
+}
