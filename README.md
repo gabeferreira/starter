@@ -1,2 +1,2 @@
-# portfolio2017v2
-August 2017 Portfolio
+# Starter
+Vanilla JS starter using signals.js, crossroads.js, Node, and Gulp
