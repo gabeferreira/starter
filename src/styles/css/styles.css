@@ -16,49 +16,58 @@ time, mark, audio, video {
   border: 0;
   font-size: 100%;
   font: inherit;
-  vertical-align: baseline; }
+  vertical-align: baseline;
+}
 
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-  display: block; }
+  display: block;
+}
 
 body {
-  line-height: 1; }
+  line-height: 1;
+}
 
 ol, ul {
-  list-style: none; }
+  list-style: none;
+}
 
 blockquote, q {
-  quotes: none; }
+  quotes: none;
+}
 
 blockquote:before, blockquote:after,
 q:before, q:after {
-  content: '';
-  content: none; }
+  content: "";
+  content: none;
+}
 
 table {
   border-collapse: collapse;
-  border-spacing: 0; }
+  border-spacing: 0;
+}
 
 @font-face {
-  font-family: 'Lorem';
+  font-family: "Lorem";
   src: url("fonts/lorem/Lorem.eot");
   src: url("fonts/lorem/Lorem.eot?#iefix") format("embedded-opentype"), url("fonts/lorem/Lorem.woff") format("woff"), url("fonts/lorem/Lorem.ttf") format("truetype");
   font-weight: 400;
   font-style: normal;
-  font-stretch: normal; }
-
+  font-stretch: normal;
+}
 @font-face {
-  font-family: 'Ipsum';
+  font-family: "Ipsum";
   src: url("fonts/ipsum/Ipsum.eot");
   src: url("fonts/ipsum/Ipsum.eot?#iefix") format("embedded-opentype"), url("fonts/ipsum/Ipsum.woff") format("woff"), url("fonts/ipsum/Ipsum.ttf") format("truetype");
   font-weight: normal;
-  font-style: normal; }
-
+  font-style: normal;
+}
 a {
   text-decoration: none;
-  color: inherit; }
+  color: inherit;
+}
 
 .clearfix {
-  clear: both; }
+  clear: both;
+}

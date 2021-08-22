@@ -1,14 +1,15 @@
 {
     "devDependencies": {
-        "babel-preset-es2015": "^6.16.0",
-        "gulp": "latest",
-        "gulp-babel": "^6.1.2",
+        "babel-preset-es2015": "^6.24.1",
+        "gulp": "^4.0.2",
+        "gulp-babel": "^6.1.3",
         "gulp-clean-css": "^2.0.13",
         "gulp-concat": "latest",
         "gulp-concat-css": "^2.3.0",
-        "gulp-connect": "latest",
-        "gulp-sass": "latest",
-        "gulp-uglify": "latest",
-        "gulp-util": "latest"
+        "gulp-connect": "^5.7.0",
+        "gulp-sass": "^5.0.0",
+        "gulp-uglify": "^3.0.2",
+        "gulp-util": "latest",
+        "sass": "^1.38.0"
     }
 }
